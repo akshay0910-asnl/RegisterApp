@@ -1,0 +1,18 @@
+<div class="table-responsive">
+<table class="table">
+    <thead>
+      <tr>
+        <th>Fullname</th>
+        <th>Email</th>
+        <th><th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr class="info" ng-repeat="user in userinfo">
+        <td>{{user.userName}}</td>
+        <td>{{user.userEmail}}</td>
+        <td><a href="#/user/{{$index}}">Edit</a></td>
+    </tr>
+    </tbody>
+  </table>
+</div>
