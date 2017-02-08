@@ -1,0 +1,27 @@
+{
+  "name": "register_app",
+  "version": "1.0.0",
+  "description": "Starter Code",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akshay0910-bits/RegisterApp"
+  },
+  "keywords": [
+    "Learn",
+    "Build",
+    "Pipeline"
+  ],
+  "author": "Akshay Kumar Choudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshay0910-bits/RegisterApp/issues"
+  },
+  "homepage": "https://github.com/akshay0910-bits/RegisterApp#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
