@@ -1,0 +1,26 @@
+{
+  "name": "register_app",
+  "description": "Starter Code",
+  "main": "js/app.js",
+  "authors": [
+    "Akshay Kumar Choudhary"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Learn",
+    "Build",
+    "Pipeline"
+  ],
+  "homepage": "https://github.com/akshay0910-bits/RegisterApp",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-datepicker": "^2.0.3"
+  }
+}
